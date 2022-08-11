@@ -41,10 +41,6 @@ Skills: HTML/ CSS/ BOOTSTRAP/ TAILWIND CSS/ JS/ REACT/ NEXT.JS/
 [![Vs Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D6?style=for-the-badge&logo=visualstudiocode&logoColor=white)]
 
 
-- 🌱 I’m currently learning PYTHON 
-- 👯 I’m looking to collaborate on Github 
-
-![Profile Visitor Count](https://gpvc.arturio.dev/ibrahim-hossain09)
 
 ## 🚀 Connect with me
 

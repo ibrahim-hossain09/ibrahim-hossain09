@@ -1,4 +1,4 @@
-![Web Developer | Junior Front-End developer](https://media-exp1.licdn.com/dms/image/C4D16AQHd1uK7uFd-2g/profile-displaybackgroundimage-shrink_200_800/0/1660119623641?e=1665619200&v=beta&t=Eo_rcw3Lagl7yLtnvctXMsMlbCiS_YDfWPSzlNWpNDs)
+![Web Developer | Junior Front-End developer](https://media-exp1.licdn.com/dms/image/C4D16AQH1-bQ9lTQvWg/profile-displaybackgroundimage-shrink_200_800/0/1660329244864?e=1665619200&v=beta&t=1dOYqs1cjUGwMj4Hl1ASl5mH4GUiG116QQhMDcLMMl0)
 ### Hi there 👋, I'm Ebrahim Hossain
 #### Web Developer | Junior Front-End developer
 

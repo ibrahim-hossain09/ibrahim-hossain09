@@ -1,17 +1,17 @@
-![Web Developer | Junior Front-End developer]([https://media.licdn.com/dms/image/C4D16AQH1-bQ9lTQvWg/profile-displaybackgroundimage-shrink_350_1400/0/1660329244864?e=1678320000&v=beta&t=9D4ij7g5Bc7m9TRCy8W5ASfsOypBS6fo_Msyhki32UU](https://media.licdn.com/dms/image/v2/C4D16AQH1-bQ9lTQvWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660329245351?e=1735776000&v=beta&t=f7cI9cZ0ADbokkJTnsPd_5AssriABHmJfNkrzMShbAc))
+![Web Developer | Junior Front-End developer][([https://media.licdn.com/dms/image/C4D16AQH1-bQ9lTQvWg/profile-displaybackgroundimage-shrink_350_1400/0/1660329244864?e=1678320000&v=beta&t=9D4ij7g5Bc7m9TRCy8W5ASfsOypBS6fo_Msyhki32UU](https://media.licdn.com/dms/image/v2/C4D16AQH1-bQ9lTQvWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660329245351?e=1735776000&v=beta&t=f7cI9cZ0ADbokkJTnsPd_5AssriABHmJfNkrzMShbAc))](https://media.licdn.com/dms/image/v2/C4D16AQH1-bQ9lTQvWg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1660329245351?e=1735776000&v=beta&t=f7cI9cZ0ADbokkJTnsPd_5AssriABHmJfNkrzMShbAc)
 ### Hi there 👋, I'm Ebrahim Hossain
 #### Web Developer | Junior Front-End developer
 
-I am working on Front End Development. Skilled in designing, developing, and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.😊
+I am working on Front End Development. Skilled in designing, developing, and testing multiple web-based applications incorporating various technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.😊
 ✔As an enthusiastic Junior Front-End Developer, I love to learn and explore.
 ✔My skill set includes HTML, CSS, Javascript, ReactJS, Bootstrap, SASS, React Bootstrap, React Router, Formik, 
- Redux, Redux Toolkit, Context API, React Hooks, NextJs, and other technologies which are related to web development.
+ Redux, Redux Toolkit, Context API, React Hooks, NextJs, and other technologies that are related to web development.
 Currently, I like to work with Reactjs and Python || Django
 
 Skills: HTML/ CSS/ BOOTSTRAP/ TAILWIND CSS/ JS/ REACT/ NEXT.JS/ 
 
 - 🌱 I’m currently learning PYTHON 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 📧  How to reach me: ebrahim.hossain.dev@gmail.com
 
 ![Profile Visitor Count](https://gpvc.arturio.dev/ibrahim-hossain09)
